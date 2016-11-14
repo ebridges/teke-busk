@@ -1,4 +1,4 @@
-
+/*
 .busk-home-page-navigation {
   font-family: mr-eaves-xl-modern, sans-serif;
   font-style: normal;
@@ -35,31 +35,56 @@
   font-weight: 100;
 }
 
-.busk-project-page-margin-list-header {
-  font-family: mr-eaves-xl-modern, sans-serif;
-  font-style: normal;
-  font-size: 22px;
-  font-weight: 300;
-}
-
-.busk-project-page-margin-list {
-  font-family: mr-eaves-xl-modern, sans-serif;
-  font-style: normal;
-  font-size: 20px;
-  font-weight: 100;
-}
-
-
 .busk-project-page-client-name {
   font-family: mr-eaves-xl-modern;
+  font-style: normal;
   font-size: 22px;
   font-weight: 200;
+  text-transform: uppercase;
 }
 
 .busk-project-page-title-name {
   font-family: mr-eaves-xl-modern;
+  font-style: normal;
   font-size: 30px;
   font-weight: 300;
 }
+*/
 
+.busk-project-page-margin-list dt {
+  font-family: mr-eaves-xl-modern, sans-serif;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 300;
+  margin-top: 15px;
+}
 
+.busk-project-page-margin-list dd {
+  font-family: mr-eaves-xl-modern, sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 0px;
+}
+
+.busk-project-page-margin-list a {
+  font-weight: 300;
+  margin-bottom: 0px;
+  border-bottom: 1px solid;
+  border-color: #cccccc;
+}
+
+.busk-project-page-client-name {
+  font-family: mr-eaves-xl-modern;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+.busk-project-page-title-name {
+  font-family: mr-eaves-xl-modern;
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 300;
+}
